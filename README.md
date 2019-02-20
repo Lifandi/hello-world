@@ -1,2 +1,3 @@
 # hello-world
-Classic
+# Classic
+print("Hello World")
